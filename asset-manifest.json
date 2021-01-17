@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.6d54a037.chunk.css",
+    "main.js": "./static/js/main.8530b465.chunk.js",
+    "main.js.map": "./static/js/main.8530b465.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.c602ebe1.js",
+    "runtime-main.js.map": "./static/js/runtime-main.c602ebe1.js.map",
+    "static/js/2.657a6558.chunk.js": "./static/js/2.657a6558.chunk.js",
+    "static/js/2.657a6558.chunk.js.map": "./static/js/2.657a6558.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.586dbfc368ea039d94cde9bbdfe172ef.js": "./precache-manifest.586dbfc368ea039d94cde9bbdfe172ef.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.6d54a037.chunk.css.map": "./static/css/main.6d54a037.chunk.css.map",
+    "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/developerActivity.svg": "./static/media/developerActivity.59389695.svg",
+    "static/media/all.css": "./static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/github_logo.png": "./static/media/github_logo.e64de169.png",
+    "static/media/m2y_logo.png": "./static/media/m2y_logo.a48870de.png",
+    "static/media/memoji.png": "./static/media/memoji.760e3b24.png",
+    "static/media/mplan_logo.png": "./static/media/mplan_logo.3fcc3642.png",
+    "static/media/programmer.svg": "./static/media/programmer.c1a95f73.svg",
+    "static/media/projects_image.svg": "./static/media/projects_image.9024a5bf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c602ebe1.js",
+    "static/js/2.657a6558.chunk.js",
+    "static/css/main.6d54a037.chunk.css",
+    "static/js/main.8530b465.chunk.js"
+  ]
+}
